@@ -42,10 +42,10 @@ To replicate or extend this analysis, follow these steps:
 
 
 1. **Open Tableau Workbook:**
-   - Open the Tableau workbook (`<Youtube_Analysis_Tableau>.twb`) to explore visualizations.
+   - Open the Tableau workbook (`Youtube_Analysis_Tableau.twb`) to explore visualizations.
 
 2. **Review Python Script:**
-   - Examine the Python script (`<Youtube_API>.ipynb`) for details on data extraction using the Pafy library.
+   - Examine the Python script (`Youtube_API.ipynb`) for details on data extraction using the Pafy library.
 
 ## Note
 
@@ -56,4 +56,4 @@ Feel free to contribute, suggest improvements, or adapt the project for your spe
 Happy analyzing!
 
 ---
-*Author: [Your Name]* 
+*Author: Muzammil Mushtaq* 
